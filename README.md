@@ -8,6 +8,10 @@
   - [x] heap sort
   - [x] togological sort
   - [x] merge sort
+  - [x] linked list
+  - [x] stack(array)
+  - [x] stack(linked list)
+  - [x] queue(linked list)
   - [x] Dijkstra search
   - [x] binary search
   - [x] AVL-Tree
